@@ -2,9 +2,14 @@
 
 A lightweight, responsive real-time chat application built with **pure PHP**, **MySQL**, and **AJAX** — no frameworks or JavaScript libraries required.
 
-![Chat Interface](login.png)
+## 🖼️ Screenshots
 
-![Chat Interface](dash.png)
+### 🔐 Login Page
+<img src="login.png" alt="Login Page" width="400"/>
+
+### 💬 Chat Interface
+<img src="dash.png" alt="Chat Interface" width="400"/>
+
 
 ---
 
