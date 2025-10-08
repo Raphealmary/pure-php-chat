@@ -1,6 +1,6 @@
 # 💬 Pure PHP Chat
 
-A lightweight, responsive real-time chat application built with **pure PHP**, **MySQL**, and **AJAX** — no frameworks or JavaScript libraries required.
+A lightweight, responsive real-time chat application built with **pure PHP**, **MySQL**, and **AJAX** — no frameworks, no socket.io or JavaScript libraries required.
 
 ## 🖼️ Screenshots
 
