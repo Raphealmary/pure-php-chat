@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Page title</title>
+</head>
+
+<body>
+    <form>
+
+        <textarea rows="1" style="padding:0" name="sample-textarea" value=""></textarea>
+    </form>
+
+    <script src="lc_emoji_picker.min.js" type="text/javascript">
+
+    </script>
+    <script type="text/javascript">
+        new lc_emoji_picker('textarea, input',
+            {
+                trigger_size: {
+                    height: '40px',
+                    width: '40px',
+                },
+
+
+                trigger_position: {
+                    top: '6px',
+                    left: '5px',
+                },
+
+                use_noto_emojis: true,
+                selection_callback: function (emoji, target_field) {
+                    console.log(emoji, target_field);
+                },
+
+
+
+
+
+
+            }
+
+
+
+
+        );
+    </script>
+
+</body>
+
+</html>
