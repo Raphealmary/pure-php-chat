@@ -4,6 +4,8 @@ A lightweight, responsive real-time chat application built with **pure PHP**, **
 
 ![Chat Interface](login.png)
 
+![Chat Interface](dash.png)
+
 ---
 
 ## 📌 Overview
@@ -19,6 +21,16 @@ A lightweight, responsive real-time chat application built with **pure PHP**, **
 - 💡 Clean, responsive UI
 - 🧩 No external libraries or frameworks
 - 📦 Easy to extend and deploy
+
+---
+
+## 🧠 Tech Stack
+
+- Backend: PHP 8 >
+- Database: MySQL
+- Frontend: HTML, CSS, JavaScript
+- Realtime: Jquery AJAX long polling
+
 
 ---
 
